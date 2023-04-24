@@ -27,7 +27,7 @@ export default siteConfig({
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
   defaultPageIcon:
-    'https://github.com/esketch-ai/Notion_Next_Blog/blob/main/pages/apple-touch-icon.png',
+    'https://github.com/esketch-ai/Notion_Next_Blog/blob/main/pages/apple-touch-icon.png?raw=true',
   defaultPageCover: null,
   defaultPageCoverPosition: 0.5,
 
