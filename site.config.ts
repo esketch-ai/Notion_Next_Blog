@@ -3,24 +3,24 @@ import { siteConfig } from './lib/site-config';
 export default siteConfig({
   // the site's root Notion page (required)
 //   rootNotionPageId: 'd1e89e9e42eb4ebf9486ae0374039efc',
-  rootNotionPageId: 'fa83f905d60f4738b0ace4d61f7dda6f',
+  rootNotionPageId: '9fa90878313e4dc7b27cbb3982d3c429',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: '2skydev blog',
-  domain: 'blog.2skydev.com',
-  author: '2skydev',
+  name: 'Esketch blog',
+  domain: '',
+  author: 'Esketch',
 
   // open graph metadata (optional)
-  description: '2skydev blog - developer blog',
+  description: 'Esketch Blog - for AI blog',
 
   // social usernames (optional)
   // twitter: 'transitive_bs',
-  github: '2skydev',
-  // linkedin: 'fisch2',
+  github: 'Esketch',
+  // linkedin: '',
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
 
@@ -56,11 +56,11 @@ export default siteConfig({
     {
       title: '카테고리',
 //       pageId: '36400db511474331b5c1de6918212469',
-      pageId: 'd650a4ec7433426a9833c16bf9f851c0',
+      pageId: '9fa90878313e4dc7b27cbb3982d3c429',
     },
   ],
 
-  // -------- custom configs (2skydev) -------------
+  // -------- custom configs (Esketch) -------------
 
   // date-fns format string
   dateformat: 'yyyy년 MM월 dd일',
