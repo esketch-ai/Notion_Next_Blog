@@ -27,7 +27,7 @@ export default siteConfig({
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
   defaultPageIcon:
-    'https://avatars.githubusercontent.com/u/32926194?v=4',
+    '/pages/android-chrome-192x192.png',
   defaultPageCover: null,
   defaultPageCoverPosition: 0.5,
 
